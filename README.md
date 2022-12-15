@@ -4,6 +4,6 @@
 - Edit and delete for each item  
 - fully responsive 
 
-## technologies / tools
+## Technologies / Tools
 - HTML / css / React 
 - class / function based component
